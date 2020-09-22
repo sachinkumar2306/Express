@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Be Smart",
+        "price": 900,
+        "category": "Personality",
+        "author": "Kathy"
+    },
+    {
+        "name": "Anonymous",
+        "price": 500,
+        "category": "Tech",
+        "author": "Sachin"
+    },
+    {
+        "name": "xyz",
+        "price": 540,
+        "category": "Technology",
+        "author": "James Bond"
+    },
+    {
+        "name": "Alchemist",
+        "price": 300,
+        "category": "Imagination",
+        "author": "Paul Coelho"
+    },
+    {
+        "name": "tro",
+        "price": 900,
+        "category": "Sci-fi",
+        "author": "Raadhe Raadhe"
+    }
+    
+]
+
